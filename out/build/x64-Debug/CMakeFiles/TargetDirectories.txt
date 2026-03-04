@@ -1,0 +1,4 @@
+C:/Users/bjdow/source/repos/MinecraftConsoles/out/build/x64-Debug/CMakeFiles/MinecraftWorld.dir
+C:/Users/bjdow/source/repos/MinecraftConsoles/out/build/x64-Debug/CMakeFiles/MinecraftClient.dir
+C:/Users/bjdow/source/repos/MinecraftConsoles/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/bjdow/source/repos/MinecraftConsoles/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
